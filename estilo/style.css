@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
-
 #home{
     background-color: #ffc107;
     color: white;
+    font-size: 1.1rem;
 }
 
 
@@ -11,5 +11,22 @@
     padding: 60px 0;
     border-bottom: 1px solid #e5e5e5;
 }
+
+@media (min-width: 320px) and (max-width: 767.98px) { 
+  
+    #display-4{
+        font-size: 1.5rem;
+    }
+
+
+
+ }
+
+
+
+
+
+
+
 
 
